@@ -9,13 +9,13 @@ $kuning="\033[1;33m";
 
 //flag
 print"$ijo
-====================================================================================\n
-#########             $red  AWAS! KENEK BANNED !!!!$pink
-##              #              $red ==>IKI BOT NUYUL APLIKASI TAHU <==$pink
+===============================================================================================\n
+#########              $red  AWAS! KENEK BANNED !!!!$pink
+##      #              $red ==>IKI BOT NUYUL APLIKASI TAHU <==$pink
 ########               $kuning #AWAS! ISO KENEK $red BANNED KOWE!!!$pink
-##                              $pink BOT IKI SING GAE "R VROH"$ijo
-##                              $biru   MATURNUWUN$turkis WES$ijo GELEM$pink GATEK$kuning TOOLS IKI\n$ijo
-====================================================================================\n$biru";
+##                     $pink BOT IKI SING GAE "R VROH"$ijo
+##                     $biru   MATURNUWUN$turkis WES$ijo GELEM$pink GATEK$kuning TOOLS IKI\n$ijo
+=================================================================================================\n$biru";
 function id($token,$jumlah,$wait)
 {
 $x = 0;
